@@ -12,6 +12,16 @@ The ways I'm going to implement it are
 2) The player shoots an object in an arc and teleports wherever object lands
 3) The player teleports by selecting where they want to move to.
 
+## Testing Questions
+Pre Questions:
+1) How familiar are you with using VR?
+2) How do you typically move in VR? (continuous movement, teleportation, jumping, flying, etc)
+3) What makes moving in VR feel immersive to you?
+Post Questions:
+1) Which interaction felt the best to you?
+2) Any points that weren't intuitive / were confusing?
+3) Which movement method felt like you had the most control? Which one was the most immersive to you?
+
 
 ## Storyboards
 
