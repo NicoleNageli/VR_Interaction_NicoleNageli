@@ -3,6 +3,8 @@ Project Proposal Template
 *Teleoprtation Types*
 
 *Nicole Nageli*
+## Interaction Video
+https://youtube.com/shorts/QPHbhl_nvHI?feature=share
 
 ## Interaction Description
 
