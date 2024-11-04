@@ -12,7 +12,7 @@ The ways I'm going to implement it are
 2) The player shoots an object and teleports wherever object lands
 3) The player teleports by aiming and selecting where they want to move to.
 
-## Testing Questions
+## Testing Questions & Responses
 Pre Questions:
 1) How familiar are you with using VR?
 * Tester 1: never a headset, used friends beatsaber
@@ -45,7 +45,7 @@ Post Questions:
 
 2) Any points that weren't intuitive / were confusing?
 * Tester 1: grappling got stuck
-* Tester 2: the launching fish, falling throught the floor, there wasn't an explanation
+* Tester 2: the launching fish, falling through the floor, there wasn't an explanation
 * Tester 3: the second one bc glitchy
 * Tester 4: 2nd one falling through floor
 * Tester 5: no
@@ -57,6 +57,10 @@ Post Questions:
 * Tester 4: grappling
 * Tester 5: last one, grappling
 
+## Testing Reflections
+I was surprised that users enjoyed the grappling hook almost as much as the typical point-and-click teleport method. The point-and-click was the most intuitive, though. Most people prefer continuous movement.
+
+Something I could add in the future is tying more body movements with the actual movements in the game. One user suggested adding vibration and other suggested arm movements.
 
 ## Storyboards
 
